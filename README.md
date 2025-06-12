@@ -67,6 +67,13 @@ For a clean DB setup:
 php artisan migrate
 ```
 
+#### Storage link
+
+To link storage to upload and show files :
+
+```bash
+php artisan storage:link
+```
 ---
 
 ### 3. 🔧 Frontend Setup
